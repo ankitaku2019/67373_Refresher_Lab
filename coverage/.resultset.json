@@ -34,25 +34,19 @@
   },
   "Unit Tests": {
     "coverage": {
-      "/home/ankitaku/67373/lab5-choretracker-starter/app/models/child.rb": [
+      "/home/ankitaku/67373/lab5-choretracker-starter/app/models/task.rb": [
+        1,
+        null,
+        1,
         1,
         null,
         null,
         1,
-        1,
-        null,
-        null,
         1,
         null,
         null,
         3,
         2,
-        null,
-        null,
-        1,
-        3,
-        null,
-        null,
         null,
         null
       ],
@@ -316,11 +310,29 @@
         0,
         0
       ],
-      "/home/ankitaku/67373/lab5-choretracker-starter/app/models/task.rb": [
+      "/home/ankitaku/67373/lab5-choretracker-starter/app/models/child.rb": [
         0,
+        null,
+        null,
+        0,
+        0,
+        null,
+        null,
+        0,
+        null,
+        null,
+        0,
+        0,
+        null,
+        null,
+        0,
+        0,
+        0,
+        null,
+        null,
         0
       ]
     },
-    "timestamp": 1612763154
+    "timestamp": 1612763717
   }
 }
