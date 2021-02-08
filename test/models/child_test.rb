@@ -30,6 +30,7 @@ class ChildTest < ActiveSupport::TestCase
     should "have a scope to select only active children" do
       assert_equal ["Alex", "Mark"], Child.active.alphabetical.map{|c| c.first_name}
     end
+
   end
 
 end
